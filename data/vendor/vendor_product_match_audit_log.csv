@@ -1,0 +1,373 @@
+Domain,A,B,Pass,Key,Score,NameA,NameB
+Vendor,VEND192709,VEND4079,1_taxid,10-2861151,96.0,Ric Warner and Wright Co,Rice Warner and Wright Co.
+Vendor,VEND3893,VEND267583,1_taxid,11-4115187,100.0,Evans Group,Evans Group
+Vendor,VEND2075,VEND71860,1_taxid,12-5393426,96.55172413793103,White-Fox Corp.,White-Fox Corp
+Vendor,VEND812909,VEND4681,1_taxid,12-7131521,100.0,Ruiz Pruitt and Simpson LLC,Ruiz Pruitt and Simpson LLC
+Vendor,VEND4759,VEND626688,1_taxid,12-9049847,100.0,Thompson-Henry Ltd.,Thompson-Henry Ltd.
+Vendor,VEND593342,VEND3651,1_taxid,14-1071158,96.0,Blakwell Co.,Blackwell Co.
+Vendor,VEND2635,VEND517136,1_taxid,14-4350961,98.36065573770492,Caldwell Martin and Brown Corp.,Caldwel Martin and Brown Corp.
+Vendor,VEND4023,VEND368274,1_taxid,14-4399332,92.0,Morris Quinn and Thomas,Morris Quinn and Thomas   LLC
+Vendor,VEND3044,VEND487149,1_taxid,16-9230011,96.55172413793103,Young-Oneal Co.,Yong-Oneal Co.
+Vendor,VEND3045,VEND771428,1_taxid,16-9641735,98.0392156862745,Montgomery Green and Smith,Montgomery Green ad Smith
+Vendor,VEND2538,VEND529301,1_taxid,17-4766034,96.96969696969697,Ford-Delgado Ltd.,Ford-Dlgado Ltd.
+Vendor,VEND4116,VEND930938,1_taxid,17-5699585,97.5609756097561,Howard and Sons Corp.,Howad and Sons Corp.
+Vendor,VEND106945,VEND2290,1_taxid,17-8266791,97.77777777777777,Garner Bookr and Smith,Garner Booker and Smith
+Vendor,VEND319632,VEND3498,1_taxid,17-9387877,100.0,Little Marshall and Mccormick,Little Marshall and Mccormick
+Vendor,VEND735986,VEND4794,1_taxid,17-9531529,97.2972972972973,Wiliams Group Inc.,Williams Group Inc.
+Vendor,VEND3325,VEND244395,1_taxid,18-2572988,100.0,Sullivan Smith and Lawrence,Sullivan Smith and Lawrence
+Vendor,VEND494897,VEND3020,1_taxid,18-4947555,94.11764705882352,Smth Ltd,Smith Ltd
+Vendor,VEND850690,VEND4476,1_taxid,18-5613522,100.0,Schwartz-Lewis Ltd.,Schwartz-Lewis Ltd.
+Vendor,VEND3384,VEND211267,1_taxid,19-8182253,94.11764705882352,Hess Ltd.,Hess td.
+Vendor,VEND2090,VEND262891,1_taxid,20-8492706,97.2972972972973,Nelson-Johnson Ltd.,Neson-Johnson Ltd.
+Vendor,VEND751620,VEND2266,1_taxid,20-8567026,100.0,Robinson West and Hoover Ltd.,Robinson West and Hoover Ltd.
+Vendor,VEND136892,VEND4522,1_taxid,21-5620790,96.96969696969697,Peterson an Sons,Peterson and Sons
+Vendor,VEND2479,VEND742937,1_taxid,21-5972910,100.0,Martin Ortiz and Collins,Martin Ortiz and Collins
+Vendor,VEND914275,VEND2346,1_taxid,21-6900560,90.9090909090909,Baks Bauer and Smith Inc. LLC,Banks Bauer and Smith Inc.
+Vendor,VEND2953,VEND195171,1_taxid,22-3300074,100.0,Smith Chase and Yoder LLC,Smith Chase and Yoder LLC
+Vendor,VEND161239,VEND4784,1_taxid,22-5569311,88.23529411764706,Cortez-Hill LLC   LLC,Cortez-Hill LLC
+Vendor,VEND4980,VEND274563,1_taxid,22-7276042,100.0,Williams-Richardson Co.,Williams-Richardson Co.
+Vendor,VEND173679,VEND2240,1_taxid,22-7555577,100.0,Marshall-Maynard Co.,Marshall-Maynard Co.
+Vendor,VEND403214,VEND3725,1_taxid,23-3847723,96.7741935483871,Peterson PLC Co,Peterson PLC Co.
+Vendor,VEND4393,VEND20960,1_taxid,23-6134886,100.0,Richardson-Wright Inc.,Richardson-Wright Inc.
+Vendor,VEND3211,VEND790704,1_taxid,26-1001931,88.88888888888889,Barry,Brry
+Vendor,VEND882421,VEND3857,1_taxid,26-2219256,96.96969696969697,Lucero-Ellis Ld.,Lucero-Ellis Ltd.
+Vendor,VEND2751,VEND553316,1_taxid,26-9812566,96.55172413793103,Barrett PLC Co.,Barrtt PLC Co.
+Vendor,VEND2510,VEND920939,1_taxid,28-1146098,100.0,Ayala Cook and Rhodes Inc.,Ayala Cook and Rhodes Inc.
+Vendor,VEND3838,VEND915304,1_taxid,28-3346014,100.0,Wong-Roberts Inc.,Wong-Roberts Inc.
+Vendor,VEND2715,VEND370485,1_taxid,28-5540203,94.11764705882352,White LLC,Wite LLC
+Vendor,VEND3022,VEND430947,1_taxid,28-7672829,97.2972972972973,Olson and Sons Ltd.,Olon and Sons Ltd.
+Vendor,VEND2631,VEND227251,1_taxid,31-5719903,87.5,Lozano-Hess LLC,Lozano-Hss L.L.C.
+Vendor,VEND3827,VEND396473,1_taxid,32-1222850,86.95652173913044,Reynolds-Marshall Corp.,reynolds-marshall corp.
+Vendor,VEND2128,VEND686297,1_taxid,33-2230398,100.0,Carter-Nelson,Carter-Nelson
+Vendor,VEND3248,VEND394137,1_taxid,33-6397942,86.48648648648648,Murphy-Ellis Ltd.,Murphy-Elis Ltd. LLC
+Vendor,VEND757759,VEND4512,1_taxid,34-4207083,100.0,Pruitt Sanchez and Higgins Inc.,Pruitt Sanchez and Higgins Inc.
+Vendor,VEND816996,VEND4198,1_taxid,34-8700849,97.14285714285714,Khan-Webster Corp,Khan-Webster Corp.
+Vendor,VEND329778,VEND3873,1_taxid,34-9795543,93.5483870967742,Hanson Gentry and Mosley Ltd.   LLC,Hanson Gentry and Mosley Ltd.
+Vendor,VEND955665,VEND2017,1_taxid,35-6230005,97.2972972972973,Brown-Johnson Crp.,Brown-Johnson Corp.
+Vendor,VEND362950,VEND3225,1_taxid,35-8477548,100.0,Johnson Ltd Corp.,Johnson Ltd Corp.
+Vendor,VEND215182,VEND4108,1_taxid,35-8920785,97.14285714285714,Cros-Martinez LLC,Cross-Martinez LLC
+Vendor,VEND796320,VEND2171,1_taxid,36-1754494,98.11320754716981,Fields Vrgas and Holt Inc.,Fields Vargas and Holt Inc.
+Vendor,VEND2645,VEND402369,1_taxid,38-5298667,100.0,Colon Group Ltd.,Colon Group Ltd.
+Vendor,VEND385655,VEND2867,1_taxid,38-7057181,96.7741935483871,Garci-Rodriguez,Garcia-Rodriguez
+Vendor,VEND4370,VEND399211,1_taxid,38-7928337,85.71428571428572,Harding,harding
+Vendor,VEND3961,VEND542335,1_taxid,40-1758400,100.0,Jackson Baxter and Brown,Jackson Baxter and Brown
+Vendor,VEND55534,VEND3106,1_taxid,40-6074445,100.0,Dennis Ellis and Dawson,Dennis Ellis and Dawson
+Vendor,VEND2436,VEND641556,1_taxid,40-7871068,100.0,Mcdowell Flores and Conway Inc.,Mcdowell Flores and Conway Inc.
+Vendor,VEND415915,VEND3188,1_taxid,41-3361399,96.96969696969697,Jones-Anrews Co.,Jones-Andrews Co.
+Vendor,VEND3100,VEND588550,1_taxid,41-3378167,96.7741935483871,Brooks Daniel and Rodriguez Ltd.,Broks Daniel and Rodriguez Ltd
+Vendor,VEND138503,VEND4025,1_taxid,42-1713474,96.2962962962963,Buck-Payne LC,Buck-Payne LLC
+Vendor,VEND4220,VEND617371,1_taxid,42-4749768,93.33333333333333,Campbell,Cambell
+Vendor,VEND340209,VEND4795,1_taxid,43-1227630,97.5609756097561,Allen-Richardson nc.,Allen-Richardson Inc.
+Vendor,VEND3385,VEND688697,1_taxid,43-2884380,85.0,Parker-Rodriguez Co.,parker-rodriguez co.
+Vendor,VEND4390,VEND709675,1_taxid,43-3721562,97.2972972972973,Austin-Mcdaniel LLC,Austin-cdaniel LLC
+Vendor,VEND3184,VEND402044,1_taxid,44-5730099,100.0,Jones Ltd Inc.,Jones Ltd Inc.
+Vendor,VEND845788,VEND2498,1_taxid,44-7640589,100.0,Bradshaw-Mccarty Co.,Bradshaw-Mccarty Co.
+Vendor,VEND897827,VEND4318,1_taxid,45-6173552,98.24561403508771,Torres Cummings and Casey Co,Torres Cummings and Casey Co.
+Vendor,VEND3052,VEND977412,1_taxid,48-1474187,100.0,Johnson Group Corp.,Johnson Group Corp.
+Vendor,VEND854404,VEND3654,1_taxid,48-8192401,100.0,Casey-Wolfe Inc.,Casey-Wolfe Inc.
+Vendor,VEND3602,VEND119580,1_taxid,48-9617675,96.96969696969697,Thornton PLC Inc.,Thorton PLC Inc.
+Vendor,VEND967542,VEND2368,1_taxid,49-3331528,96.7741935483871,Morgan-Hernanez,Morgan-Hernandez
+Vendor,VEND449493,VEND3991,1_taxid,49-5458809,100.0,Weaver Butler and Campbell Co.,Weaver Butler and Campbell Co.
+Vendor,VEND262230,VEND2054,1_taxid,50-9109914,96.55172413793103,Cook-Luna Cop.,Cook-Luna Corp.
+Vendor,VEND3471,VEND508532,1_taxid,51-5164658,100.0,Miller Huang and Barrett Inc.,Miller Huang and Barrett Inc.
+Vendor,VEND835236,VEND4950,1_taxid,51-5225873,100.0,Rodriguez Smith and Williams LLC,Rodriguez Smith and Williams LLC
+Vendor,VEND552698,VEND3851,1_taxid,51-6564218,94.11764705882352,Davis Co,Davis Co.
+Vendor,VEND865810,VEND2718,1_taxid,51-9531383,91.66666666666666,Ford Ltd td,Ford Ltd Ltd.
+Vendor,VEND294888,VEND3577,1_taxid,52-6621666,100.0,Edwards PLC LLC,Edwards PLC LLC
+Vendor,VEND330513,VEND3429,1_taxid,52-6795909,96.55172413793103,Bakr-Jones Co.,Baker-Jones Co.
+Vendor,VEND4195,VEND902600,1_taxid,52-9065590,96.55172413793103,Fisher and Sons,Fisher an Sons
+Vendor,VEND4051,VEND328051,1_taxid,52-9449209,100.0,Santiago Sanchez and Sanford,Santiago Sanchez and Sanford
+Vendor,VEND2931,VEND29952,1_taxid,53-8712062,97.5609756097561,Nichols and Sons Inc.,Nichos and Sons Inc.
+Vendor,VEND340111,VEND3205,1_taxid,53-8981058,94.28571428571428,Neal Hutchinson and Sandoval Ltd.   LLC,Neal Hutchinson and Sandoval Ltd.
+Vendor,VEND3876,VEND913249,1_taxid,53-9388610,97.77777777777777,Hull Oneal and Lowe Co.,Hull Oneal and Lowe Co
+Vendor,VEND725862,VEND4357,1_taxid,55-1090137,100.0,Johnston Ltd Co.,Johnston Ltd Co.
+Vendor,VEND2217,VEND809290,1_taxid,55-6404639,96.96969696969697,Martin-Owens Ltd.,Martin-Owen Ltd.
+Vendor,VEND2857,VEND100116,1_taxid,55-6679918,100.0,Tucker Bowers and Conrad LLC,Tucker Bowers and Conrad LLC
+Vendor,VEND3069,VEND249954,1_taxid,55-8360526,96.2962962962963,Lee-Flores LLC,Lee-Flores LC
+Vendor,VEND2463,VEND347945,1_taxid,56-1777967,100.0,Wilson Lynch and Johnson Ltd.,Wilson Lynch and Johnson Ltd.
+Vendor,VEND3762,VEND144718,1_taxid,57-1542076,97.95918367346938,Smith Smith and Allen LLC,Smith Smith and Alen LLC
+Vendor,VEND4109,VEND102220,1_taxid,57-6226649,100.0,Ellis LLC,Ellis LLC
+Vendor,VEND797739,VEND2451,1_taxid,57-6371625,96.55172413793103,Brwn-Jones Co.,Brown-Jones Co.
+Vendor,VEND531971,VEND4291,1_taxid,57-9244949,100.0,Parks Hardin and Martinez Co.,Parks Hardin and Martinez Co.
+Vendor,VEND3439,VEND585960,1_taxid,58-4267387,100.0,Williams Jefferson and Duran Corp.,Williams Jefferson and Duran Corp.
+Vendor,VEND2247,VEND562393,1_taxid,58-6253731,90.0,Rogers Ltd.,Roges Ltd
+Vendor,VEND287257,VEND3287,1_taxid,59-5721661,100.0,Campbell Miller and Valencia LLC,Campbell Miller and Valencia LLC
+Vendor,VEND173654,VEND4865,1_taxid,60-7206550,100.0,Baker Ferguson and White,Baker Ferguson and White
+Vendor,VEND919817,VEND3747,1_taxid,60-7264165,88.88888888888889,Hodge-Travis L.L.C.,Hodges-Travis LLC
+Vendor,VEND817500,VEND4203,1_taxid,60-8274737,88.37209302325581,Cruz Byrd and Lndry LLC,Cruz Byrd and Landry
+Vendor,VEND601098,VEND2477,1_taxid,61-1306200,95.65217391304348,H Group Co.,Ho Group Co.
+Vendor,VEND469683,VEND2513,1_taxid,61-5326266,100.0,Anderson Mcknight and Small Corp.,Anderson Mcknight and Small Corp.
+Vendor,VEND2094,VEND260157,1_taxid,61-7985016,98.18181818181819,Farley Ramos and Burke Corp.,Farley Ramos and Burke Cor.
+Vendor,VEND4532,VEND909189,1_taxid,62-1163483,100.0,Moore Co.,Moore Co.
+Vendor,VEND4655,VEND491808,1_taxid,62-1633949,96.0,Bradley-Hanna,Bradley-Hana
+Vendor,VEND838460,VEND4508,1_taxid,62-6464522,93.33333333333333,CoxInc.,Cox Inc.
+Vendor,VEND3413,VEND905985,1_taxid,62-8155865,92.3076923076923,Jackson,Jacksn
+Vendor,VEND746923,VEND3470,1_taxid,63-5303135,97.5609756097561,Ballard-Hrnandez LLC,Ballard-Hernandez LLC
+Vendor,VEND421557,VEND2392,1_taxid,63-6309649,96.7741935483871,GardnerVega LLC,Gardner-Vega LLC
+Vendor,VEND554664,VEND4395,1_taxid,64-4175804,88.88888888888889,Farrell and Sons   LLC,Farrell and Sons
+Vendor,VEND620055,VEND3801,1_taxid,65-6690796,95.23809523809523,Thomas Ld.,Thomas Ltd.
+Vendor,VEND3540,VEND760682,1_taxid,66-3490025,97.77777777777777,David Brown and Kennedy,David Bron and Kennedy
+Vendor,VEND627078,VEND2401,1_taxid,66-3957472,88.37209302325581,Guerrro-Woods Corp. LLC,Guerrero-Woods Corp.
+Vendor,VEND4488,VEND503413,1_taxid,66-4525241,100.0,Willis and Sons LLC,Willis and Sons LLC
+Vendor,VEND159510,VEND4879,1_taxid,67-1616277,97.87234042553192,Wagner Homes and Farmer,Wagner Holmes and Farmer
+Vendor,VEND156638,VEND3777,1_taxid,67-3269323,87.5,Bailey PLC Co.   LLC,Bailey PLC Co.
+Vendor,VEND2493,VEND130465,1_taxid,68-7688566,100.0,Rodriguez Walters and Little Corp.,Rodriguez Walters and Little Corp.
+Vendor,VEND16882,VEND4450,1_taxid,68-8742817,91.52542372881356,Hayes Wheeler and Burto Co. LLC,Hayes Wheeler and Burton Co.
+Vendor,VEND3714,VEND747400,1_taxid,69-5476060,93.5483870967742,Mullen Colon and Krueger Inc.,Mullen Colon and Krueger Inc.   LLC
+Vendor,VEND572642,VEND2837,1_taxid,70-3824497,100.0,Lewis-Martin Ltd.,Lewis-Martin Ltd.
+Vendor,VEND348247,VEND2400,1_taxid,70-5162985,90.0,Payne and Sons LLC   LLC,Payne and Sons LLC
+Vendor,VEND470632,VEND4001,1_taxid,70-6655532,96.7741935483871,Casillo-Johnson,Castillo-Johnson
+Vendor,VEND3645,VEND314285,1_taxid,70-9548713,95.23809523809523,Wood-Le Co.,Wod-Le Co.
+Vendor,VEND2725,VEND942251,1_taxid,71-1918109,94.11764705882352,Contreras,Cotreras
+Vendor,VEND4897,VEND16573,1_taxid,71-8101829,97.87234042553192,Webster Golden and Jones,Webster Glden and Jones
+Vendor,VEND3126,VEND340938,1_taxid,71-8284873,100.0,Smith Scott and Turner Co.,Smith Scott and Turner Co.
+Vendor,VEND227215,VEND3003,1_taxid,73-4648501,98.18181818181819,Graham Zavala and Robles LC,Graham Zavala and Robles LLC
+Vendor,VEND833889,VEND3703,1_taxid,73-9558131,94.11764705882352,Mcdonald Miles and Bradford Inc.   LLC,Mcdonald Miles and Bradford Inc.
+Vendor,VEND4855,VEND9401,1_taxid,74-3984510,97.5609756097561,Bonilla and Sons Inc.,Bonill and Sons Inc.
+Vendor,VEND4595,VEND525218,1_taxid,75-4727415,86.48648648648648,Price-Warren Ltd.,Pice-Warren Ltd. LLC
+Vendor,VEND142633,VEND4483,1_taxid,75-6010351,88.23529411764706,Williams-Joseph   LLC,Williams-Joseph
+Vendor,VEND3872,VEND417918,1_taxid,76-2959889,98.11320754716981,Ford Johnson and Thomas LLC,Ford Johnson and Thomas LC
+Vendor,VEND42653,VEND2503,1_taxid,76-3559525,100.0,Perkins Group LLC,Perkins Group LLC
+Vendor,VEND586168,VEND4614,1_taxid,76-8726333,100.0,Carter Roth and Thomas,Carter Roth and Thomas
+Vendor,VEND2135,VEND853429,1_taxid,77-3502023,100.0,Robinson Group Ltd.,Robinson Group Ltd.
+Vendor,VEND4311,VEND364658,1_taxid,79-7692467,100.0,Elliott-Williams Corp.,Elliott-Williams Corp.
+Vendor,VEND751515,VEND4356,1_taxid,79-8124988,100.0,Walker Morgan and Martin Ltd.,Walker Morgan and Martin Ltd.
+Vendor,VEND4772,VEND710179,1_taxid,80-1383917,100.0,Cummings Harper and Nolan LLC,Cummings Harper and Nolan LLC
+Vendor,VEND743615,VEND4471,1_taxid,81-5097596,92.85714285714286,Ellis Roach and Edards L.L.C.,Ellis Roach and Edwards LLC
+Vendor,VEND377445,VEND4338,1_taxid,82-4962554,98.30508474576271,Anderson Martin ad Fields Co.,Anderson Martin and Fields Co.
+Vendor,VEND884517,VEND2249,1_taxid,82-6653267,97.14285714285714,Daniels-Knigt Co.,Daniels-Knight Co.
+Vendor,VEND4147,VEND742974,1_taxid,83-2771809,97.14285714285714,Schwartz Group LLC,Schwartz GroupLLC
+Vendor,VEND4062,VEND470553,1_taxid,83-6015925,95.23809523809523,Crawford-Marshall Inc.,Crawford-Marsall Inc
+Vendor,VEND769677,VEND2501,1_taxid,83-8559253,93.75,George-owman Co,George-Bowman Co.
+Vendor,VEND959051,VEND4690,1_taxid,83-8670020,100.0,Jones Group Co.,Jones Group Co.
+Vendor,VEND2233,VEND11493,1_taxid,84-2156565,98.30508474576271,Young Ford and Macdonald Corp.,Young Ford and Madonald Corp.
+Vendor,VEND4919,VEND254817,1_taxid,85-3877264,97.5609756097561,Wilkerson-Kennedy LLC,Wlkerson-Kennedy LLC
+Vendor,VEND4798,VEND422169,1_taxid,85-5506749,97.43589743589743,Clark-Williams Corp.,Clark-Williams Cor.
+Vendor,VEND2711,VEND207804,1_taxid,86-3715715,90.9090909090909,Colon-White LLC,Colon-White L.L.C.
+Vendor,VEND4511,VEND117445,1_taxid,86-7835927,97.14285714285714,Cross and Sons Co.,Cross an Sons Co.
+Vendor,VEND3805,VEND675693,1_taxid,86-9095372,93.75,Romero Weaver and Herring Ltd.,Romero Weaver and Herring Ltd.   LLC
+Vendor,VEND4039,VEND482052,1_taxid,86-9102452,97.14285714285714,Jackson-Bailey Co.,Jackson-Baley Co.
+Vendor,VEND4206,VEND432927,1_taxid,87-5354532,91.80327868852459,Welch Berger and Osborne Inc.,Welch Berger and Osbrne Inc. LLC
+Vendor,VEND3075,VEND381039,1_taxid,87-7114662,97.14285714285714,Wood and Sons Inc.,Woo and Sons Inc.
+Vendor,VEND447706,VEND4821,1_taxid,87-7240883,100.0,Burke Rosales and Guzman Co.,Burke Rosales and Guzman Co.
+Vendor,VEND787105,VEND2088,1_taxid,87-8355765,100.0,Rogers and Sons Corp.,Rogers and Sons Corp.
+Vendor,VEND4205,VEND487638,1_taxid,88-2049376,90.9090909090909,Clayton and Sons Co.,Clayton and Sons Co.   LLC
+Vendor,VEND3861,VEND118222,1_taxid,88-2324069,100.0,Price Frye and Carney Co.,Price Frye and Carney Co.
+Vendor,VEND109895,VEND3489,1_taxid,89-5351133,97.2972972972973,Heath and Sns Ltd.,Heath and Sons Ltd.
+Vendor,VEND701952,VEND4592,1_taxid,90-6095299,94.44444444444444,Mitchell GroupInc,Mitchell Group Inc.
+Vendor,VEND702844,VEND3985,1_taxid,90-6443238,98.18181818181819,Chang Stewartand Horne Ltd.,Chang Stewart and Horne Ltd.
+Vendor,VEND216249,VEND4906,1_taxid,91-1686721,93.33333333333333,Young GroupLtd,Young Group Ltd.
+Vendor,VEND2816,VEND18289,1_taxid,91-2296695,93.10344827586206,Richardson-Richardson Corp.,Richardson-Richardson Corp.   LLC
+Vendor,VEND613432,VEND2153,1_taxid,91-5268864,92.3076923076923,Jones-Holloway L.L.C.,Jones-Holloway LLC
+Vendor,VEND3524,VEND505660,1_taxid,91-7233275,97.43589743589743,Garcia and Sons Ltd.,Garcia and Son Ltd.
+Vendor,VEND4282,VEND630773,1_taxid,93-2666884,98.0392156862745,Mason Perez and Mckay Inc.,Mason Perez and Mckay Inc
+Vendor,VEND127444,VEND2811,1_taxid,93-6807608,97.95918367346938,Phillips Sampson and Rwe,Phillips Sampson and Rowe
+Vendor,VEND3952,VEND741297,1_taxid,94-4625890,100.0,Walters-Reed Co.,Walters-Reed Co.
+Vendor,VEND4587,VEND382778,1_taxid,94-6205890,90.9090909090909,Thomas-Barr LLC,Thomas-Barr L.L.C.
+Vendor,VEND268411,VEND3370,1_taxid,94-7164475,100.0,Haynes-Allen Ltd.,Haynes-Allen Ltd.
+Vendor,VEND399390,VEND4579,1_taxid,94-7890076,97.14285714285714,Ballard-Wight Co.,Ballard-Wright Co.
+Vendor,VEND749197,VEND3262,1_taxid,95-2994510,100.0,Rhodes Conner and Walker Inc.,Rhodes Conner and Walker Inc.
+Vendor,VEND220154,VEND4449,1_taxid,95-3673394,96.55172413793103,Roger-Ali Inc.,Rogers-Ali Inc.
+Vendor,VEND3656,VEND220794,1_taxid,95-6685526,100.0,Morris Inc.,Morris Inc.
+Vendor,VEND570802,VEND2759,1_taxid,95-7131046,98.41269841269842,Wilson Perez and Villanueva Inc,Wilson Perez and Villanueva Inc.
+Vendor,VEND13279,VEND2277,1_taxid,96-1240948,93.33333333333333,Wlliams,Williams
+Vendor,VEND4309,VEND307597,1_taxid,96-2020864,95.23809523809523,Allen Group,Allen roup
+Vendor,VEND2060,VEND800677,1_taxid,96-4432095,97.43589743589743,Melendez-Greene Inc.,Melendez-Geene Inc.
+Vendor,VEND804319,VEND4661,1_taxid,96-5955695,94.11764705882352,Chapan Group Inc,Chapman Group Inc.
+Vendor,VEND3998,VEND105563,1_taxid,97-4793200,88.88888888888889,Patterson-Barker Ltd.,Patteron-Barker Ltd. LLC
+Vendor,VEND2154,VEND594251,1_taxid,98-5913766,100.0,Hayden-White Ltd.,Hayden-White Ltd.
+Vendor,VEND4883,VEND228206,1_taxid,98-8198357,97.2972972972973,Palmer-Cortez Corp.,Palmer-Cortez Cor.
+Vendor,VEND3803,VEND424207,1_taxid,98-9260882,100.0,Reeves Co.,Reeves Co.
+Vendor,VEND3284,VEND67893,1_taxid,99-4257912,85.0,Miller-Alvarado Inc.,miller-alvarado inc.
+Vendor,VEND2407,VEND545929,1_taxid,99-5087034,95.65217391304348,Williams LLC,Wiliams LLC
+Vendor,VEND221942,VEND2447,2_name_state,ALLEN-WA,96.96969696969697,Allen Group Crp.,Allen Group Corp.
+Vendor,VEND2694,VEND305541,2_name_state,ANDER-TX,88.88888888888889,Anderson and Sons Co.,Andersn and Sons Co. LLC
+Vendor,VEND2749,VEND200653,2_name_state,ANTHO-NY,100.0,Anthony Ltd Ltd.,Anthony Ltd Ltd.
+Vendor,VEND4022,VEND68417,2_name_state,ARROY-GA,100.0,Arroyo Johnson and Smith Ltd.,Arroyo Johnson and Smith Ltd.
+Vendor,VEND154125,VEND3553,2_name_state,BURGE-FL,90.9090909090909,Burges Inc,Burgess Inc.
+Vendor,VEND2069,VEND738691,2_name_state,BURKE-OH,100.0,Burke Inc.,Burke Inc.
+Vendor,VEND2000,VEND503163,2_name_state,BUTLE-WA,88.88888888888889,Butler Group LLC,Butler Group LLC   LLC
+Vendor,VEND487393,VEND4454,2_name_state,CAMPB-OH,100.0,Campbell-Knapp,Campbell-Knapp
+Vendor,VEND604094,VEND4398,2_name_state,CANNO-GA,96.7741935483871,Canno-Scott Co.,Cannon-Scott Co.
+Vendor,VEND4705,VEND24744,2_name_state,COLER-TX,96.55172413793103,Cole-Richardson,Cole-Richardon
+Vendor,VEND2893,VEND57109,2_name_state,COLLI-NY,100.0,Collins and Sons Ltd.,Collins and Sons Ltd.
+Vendor,VEND2231,VEND3404,2_name_state,CRAWF-CA,100.0,Crawford PLC Inc.,Crawford PLC Inc.
+Vendor,VEND399711,VEND2946,2_name_state,CRAWF-GA,97.14285714285714,Crawford-GrayLtd.,Crawford-Gray Ltd.
+Vendor,VEND4069,VEND449685,2_name_state,DIXON-WA,100.0,Dixon and Sons Inc.,Dixon and Sons Inc.
+Vendor,VEND4368,VEND42312,2_name_state,FOXBA-NY,98.18181818181819,Fox Bailey and Williams Ltd.,Fox Bailey ad Williams Ltd.
+Vendor,VEND4683,VEND173148,2_name_state,FRANK-IL,100.0,Franklin Rogers and Smith Ltd.,Franklin Rogers and Smith Ltd.
+Vendor,VEND4902,VEND462967,2_name_state,GALVA-IL,93.75,Galvan Martinez and Adams Inc.,Galvan Martinez and Adams Inc.   LLC
+Vendor,VEND5095,VEND4605,2_name_state,GARDN-IL,100.0,Gardner,Gardner
+Vendor,VEND920138,VEND3556,2_name_state,GONZA-IL,98.46153846153847,Gonzalez Moore and Vlazquez Inc.,Gonzalez Moore and Velazquez Inc.
+Vendor,VEND3587,VEND2661,2_name_state,GONZA-MI,88.37209302325581,Gonzalez and Sons LLC,Gonzalez and Sons Ltd.
+Vendor,VEND1000557,VEND2053,2_name_state,GRAHA-AZ,100.0,Graham-Brewer Ltd.,Graham-Brewer Ltd.
+Vendor,VEND376828,VEND4514,2_name_state,HARRI-CA,100.0,Harris and Sons LLC,Harris and Sons LLC
+Vendor,VEND2026,VEND2321,2_name_state,HARRI-TX,100.0,Harris,Harris
+Vendor,VEND3350,VEND664319,2_name_state,HERNA-CA,100.0,Hernandez and Sons Inc.,Hernandez and Sons Inc.
+Vendor,VEND297550,VEND3271,2_name_state,JACOB-TX,95.65217391304348,Jacobs Corp,Jacobs Corp.
+Vendor,VEND599798,VEND4072,2_name_state,JAMES-GA,100.0,James-Jones Inc.,James-Jones Inc.
+Vendor,VEND3565,VEND2269,2_name_state,JOHNS-OH,87.8048780487805,Johnson and Sons Inc.,Johnson and Sons Co.
+Vendor,VEND293976,VEND4627,2_name_state,JORDA-NC,97.14285714285714,Jordan-Pacheco Co,Jordan-Pacheco Co.
+Vendor,VEND340691,VEND2603,2_name_state,KOCHG-CO,96.55172413793103,Koch Grou Ltd.,Koch Group Ltd.
+Vendor,VEND3906,VEND758496,2_name_state,LEVIN-PA,96.55172413793103,Levine Watson and Mullins Inc.,Levine Watson and Mullis Inc
+Vendor,VEND3946,VEND239112,2_name_state,LUCAS-NY,87.5,Lucas and Sons,Lucas and Sons   LLC
+Vendor,VEND534699,VEND3911,2_name_state,MARTI-AZ,96.55172413793103,Martinez-olina,Martinez-Molina
+Vendor,VEND1000438,VEND4548,2_name_state,MARTI-GA,93.33333333333333,Martinez and Sons L.L.C.,Martinez and Sons LLC
+Vendor,VEND793091,VEND2414,2_name_state,MARTI-OH,97.43589743589743,Marti and Sons Ltd.,Martin and Sons Ltd.
+Vendor,VEND3027,VEND451741,2_name_state,MEDIN-NJ,97.43589743589743,Medina and Sons Inc.,Medina and Sons Inc
+Vendor,VEND3665,VEND559487,2_name_state,MENDO-PA,98.0392156862745,Mendoza Eaton and Page LLC,Mendoza Eaton an Page LLC
+Vendor,VEND3589,VEND2798,2_name_state,MITCH-NJ,85.0,Mitchell-Johnson Co.,Mitchell-Jones Corp.
+Vendor,VEND4187,VEND5130,2_name_state,MOORE-CA,100.0,Moore Ltd,Moore Ltd
+Vendor,VEND2198,VEND58714,2_name_state,NASHL-WA,86.66666666666667,Nash Ltd Ltd.,Nash Ltd Ltd.   LLC
+Vendor,VEND290853,VEND2750,2_name_state,PEREZ-TX,100.0,Perez-Adams LLC,Perez-Adams LLC
+Vendor,VEND4942,VEND3782,2_name_state,RODRI-NC,88.23529411764706,Rodriguez Corp.,Rodriguez Ltd Corp.
+Vendor,VEND3772,VEND3848,2_name_state,SANDE-CO,86.48648648648648,Sanders and Sons Ltd.,Sanders and Sons
+Vendor,VEND431349,VEND2618,2_name_state,SINGL-GA,97.5609756097561,Singleto-Mendez Ltd.,Singleton-Mendez Ltd.
+Vendor,VEND2220,VEND252887,2_name_state,SMITH-TX,96.96969696969697,Smith-Hubbard LLC,Smith-Hubbard LC
+Vendor,VEND2778,VEND2486,2_name_state,SMITH-TX,100.0,Smith LLC,Smith LLC
+Vendor,VEND4300,VEND2464,2_name_state,SMITH-TX,100.0,Smith PLC Inc.,Smith PLC Inc.
+Vendor,VEND2159,VEND3379,2_name_state,THOMP-GA,100.0,Thompson and Sons Corp.,Thompson and Sons Corp.
+Vendor,VEND2884,VEND3647,2_name_state,VAUGH-FL,95.23809523809523,Vaughan LLC,Vaughn LLC
+Vendor,VEND4794,VEND3377,2_name_state,WILLI-NC,100.0,Williams Group Inc.,Williams Group Inc.
+Vendor,VEND4230,VEND5129,2_name_state,WILLI-PA,95.0,Williams Group Ltd.,Williamson Group Ltd.
+Vendor,VEND2826,VEND5015,2_name_state,WRIGH-CO,100.0,Wright Corp.,Wright Corp.
+Vendor,VEND2112,VEND4129,2_name_state,YOUNG-IL,88.88888888888889,Young LLC,Young PLC
+Product,SKU-21214,SKU-355844,1_category_vendor_name,APPA-2532-OPTI,100.0,Optional heuristic policy,Optional heuristic policy
+Product,SKU-906434,SKU-21837,1_category_vendor_name,APPA-2925-PROF,100.0,Profound coherent orchestration,Profound coherent orchestration
+Product,SKU-21847,SKU-812848,1_category_vendor_name,APPA-2934-DEEN,97.67441860465115,De-engineered demand-driven instruction set,de-engineered demand-driven instruction set
+Product,SKU-20913,SKU-606825,1_category_vendor_name,APPA-2965-FUNC,96.7741935483871,Function-based multimedia frame,Function based multimedia frame
+Product,SKU-23037,SKU-488230,1_category_vendor_name,APPA-3276-PERS,100.0,Persevering leadingedge toolset,Persevering leadingedge toolset
+Product,SKU-20657,SKU-589606,1_category_vendor_name,APPA-3415-GRAS,85.1063829787234,Grass-roots mobile firmware,Grass-roots firmware
+Product,SKU-1021097,SKU-22869,1_category_vendor_name,APPA-3694-FUND,100.0,Fundamental encompassing moderator,Fundamental encompassing moderator
+Product,SKU-998825,SKU-20252,1_category_vendor_name,APPA-4364-VISI,100.0,Vision-oriented context-sensitive intranet,Vision-oriented context-sensitive intranet
+Product,SKU-872176,SKU-23380,1_category_vendor_name,APPA-4514-AUTO,96.875,automated fault-tolerant support,Automated fault-tolerant support
+Product,SKU-236726,SKU-21760,1_category_vendor_name,APPA-4603-INTE,96.875,integrated maximized utilization,Integrated maximized utilization
+Product,SKU-22904,SKU-1046357,1_category_vendor_name,APPA-4705-USER,88.88888888888889,User-centric bi-directional matrices,User centric bi directional matrices
+Product,SKU-196916,SKU-23272,1_category_vendor_name,APPA-4887-ORGA,100.0,Organic national Graphic Interface,Organic national Graphic Interface
+Product,SKU-20093,SKU-249037,1_category_vendor_name,APPA-4955-HORI,100.0,Horizontal uniform flexibility,Horizontal uniform flexibility
+Product,SKU-582925,SKU-21072,1_category_vendor_name,APPA-4988-DEVO,100.0,Devolved static website,Devolved static website
+Product,SKU-20922,SKU-550731,1_category_vendor_name,ELEC-2692-PHAS,100.0,Phased fault-tolerant toolset,Phased fault-tolerant toolset
+Product,SKU-21098,SKU-488803,1_category_vendor_name,ELEC-2758-ADAP,95.83333333333334,Adaptive mobile leverage,adaptive mobile leverage
+Product,SKU-779662,SKU-20719,1_category_vendor_name,ELEC-2877-SYNE,100.0,Synergized 24hour firmware,Synergized 24hour firmware
+Product,SKU-961593,SKU-22286,1_category_vendor_name,ELEC-3011-REAL,100.0,Realigned bifurcated conglomeration,Realigned bifurcated conglomeration
+Product,SKU-21304,SKU-965939,1_category_vendor_name,ELEC-3143-USER,95.1219512195122,User-centric full-range Graphic Interface,User centric full range Graphic Interface
+Product,SKU-811292,SKU-20976,1_category_vendor_name,ELEC-3383-PERS,100.0,Persistent bifurcated capability,Persistent bifurcated capability
+Product,SKU-892057,SKU-22229,1_category_vendor_name,ELEC-3430-VIRT,100.0,Virtual didactic adapter,Virtual didactic adapter
+Product,SKU-23461,SKU-729716,1_category_vendor_name,ELEC-3731-HORI,100.0,Horizontal regional circuit,Horizontal regional circuit
+Product,SKU-21142,SKU-1041921,1_category_vendor_name,ELEC-3966-BALA,100.0,Balanced homogeneous hub,Balanced homogeneous hub
+Product,SKU-20796,SKU-218164,1_category_vendor_name,ELEC-4093-HORI,86.95652173913044,Horizontal bandwidth-monitored protocol,Horizontal bandwidth-monitored
+Product,SKU-23207,SKU-704623,1_category_vendor_name,ELEC-4179-CONF,97.14285714285714,Configurable clear-thinking archive,Configurable clear thinking archive
+Product,SKU-522371,SKU-23002,1_category_vendor_name,ELEC-4424-FOCU,100.0,Focused object-oriented extranet,Focused object-oriented extranet
+Product,SKU-1009397,SKU-22817,1_category_vendor_name,ELEC-4475-ERGO,96.66666666666667,Ergonomic multi state encoding,Ergonomic multi-state encoding
+Product,SKU-20006,SKU-450188,1_category_vendor_name,ELEC-4488-HORI,100.0,Horizontal systematic productivity,Horizontal systematic productivity
+Product,SKU-607032,SKU-20236,1_category_vendor_name,ELEC-4829-REVE,100.0,Reverse-engineered analyzing infrastructure,Reverse-engineered analyzing infrastructure
+Product,SKU-22406,SKU-168510,1_category_vendor_name,ELEC-4909-ENHA,100.0,Enhanced 3rdgeneration intranet,Enhanced 3rdgeneration intranet
+Product,SKU-20465,SKU-103337,1_category_vendor_name,FURN-2055-TOTA,100.0,Total multimedia paradigm,Total multimedia paradigm
+Product,SKU-97900,SKU-21746,1_category_vendor_name,FURN-2088-INVE,100.0,Inverse mission-critical artificial intelligence,Inverse mission-critical artificial intelligence
+Product,SKU-21850,SKU-782119,1_category_vendor_name,FURN-2491-INTU,100.0,Intuitive local protocol,Intuitive local protocol
+Product,SKU-772006,SKU-21995,1_category_vendor_name,FURN-2625-AUTO,100.0,Automated coherent data-warehouse,Automated coherent data-warehouse
+Product,SKU-908159,SKU-22712,1_category_vendor_name,FURN-2653-VISI,100.0,Visionary solution-oriented framework,Visionary solution-oriented framework
+Product,SKU-699701,SKU-22275,1_category_vendor_name,FURN-2708-PUBL,100.0,Public-key optimizing flexibility,Public-key optimizing flexibility
+Product,SKU-553965,SKU-22994,1_category_vendor_name,FURN-2775-OPEN,100.0,Open-source needs-based architecture,Open-source needs-based architecture
+Product,SKU-22536,SKU-574628,1_category_vendor_name,FURN-2949-QUAL,90.66666666666666,Quality-focused contextually-based policy,Quality-focused contextually-based
+Product,SKU-583666,SKU-23314,1_category_vendor_name,FURN-3217-MULT,100.0,Multi-channeled neutral workforce,Multi-channeled neutral workforce
+Product,SKU-20268,SKU-989965,1_category_vendor_name,FURN-3395-CROS,97.5,Cross-platform upward-trending groupware,cross-platform upward-trending groupware
+Product,SKU-629445,SKU-22366,1_category_vendor_name,FURN-3554-ENTE,85.71428571428572,Enterprise-wide encoding,Enterprise-wide optimal encoding
+Product,SKU-21318,SKU-816001,1_category_vendor_name,FURN-3563-PERS,100.0,Persistent zero tolerance extranet,Persistent zero tolerance extranet
+Product,SKU-355409,SKU-21752,1_category_vendor_name,FURN-3802-BALA,100.0,Balanced impactful hub,Balanced impactful hub
+Product,SKU-23097,SKU-878682,1_category_vendor_name,FURN-3903-PHAS,100.0,Phased attitude-oriented knowledgebase,Phased attitude-oriented knowledgebase
+Product,SKU-22048,SKU-992319,1_category_vendor_name,FURN-4056-EXCL,100.0,Exclusive asymmetric knowledge user,Exclusive asymmetric knowledge user
+Product,SKU-22233,SKU-987213,1_category_vendor_name,FURN-4277-DEEN,96.96969696969697,De-engineered full-range intranet,de-engineered full-range intranet
+Product,SKU-239333,SKU-20320,1_category_vendor_name,FURN-4368-REVE,86.56716417910448,Reverse-engineered definition,Reverse-engineered national definition
+Product,SKU-23318,SKU-353913,1_category_vendor_name,FURN-4583-EXTE,100.0,Extended 24hour system engine,Extended 24hour system engine
+Product,SKU-21799,SKU-694329,1_category_vendor_name,FURN-4617-CROS,96.55172413793103,Cross-group local open system,Cross group local open system
+Product,SKU-1086706,SKU-23414,1_category_vendor_name,FURN-4772-PERS,96.875,persevering web-enabled protocol,Persevering web-enabled protocol
+Product,SKU-21224,SKU-942874,1_category_vendor_name,FURN-4874-ASSI,90.19607843137256,Assimilated zero-defect core,Assimilated zero-defect
+Product,SKU-21975,SKU-216141,1_category_vendor_name,HARD-2475-VERS,100.0,Versatile bifurcated array,Versatile bifurcated array
+Product,SKU-807773,SKU-20357,1_category_vendor_name,HARD-2831-FACE,100.0,Face-to-face real-time throughput,Face-to-face real-time throughput
+Product,SKU-21562,SKU-338947,1_category_vendor_name,HARD-3034-AUTO,100.0,Automated multi-tasking complexity,Automated multi-tasking complexity
+Product,SKU-20144,SKU-373949,1_category_vendor_name,HARD-3531-HORI,94.11764705882352,Horizontal analyzing instruction set,Horizontal analyzing instruction
+Product,SKU-658858,SKU-23440,1_category_vendor_name,HARD-3783-GRAS,100.0,Grass-roots dynamic complexity,Grass-roots dynamic complexity
+Product,SKU-301897,SKU-22365,1_category_vendor_name,HARD-3864-SHAR,100.0,Sharable scalable strategy,Sharable scalable strategy
+Product,SKU-529807,SKU-20417,1_category_vendor_name,HARD-3982-MAND,100.0,Mandatory 24/7 hub,Mandatory 24/7 hub
+Product,SKU-20795,SKU-983713,1_category_vendor_name,HARD-4099-PERS,100.0,Persistent disintermediate info-mediaries,Persistent disintermediate info-mediaries
+Product,SKU-20985,SKU-403648,1_category_vendor_name,HARD-4171-PERS,100.0,Persistent radical flexibility,Persistent radical flexibility
+Product,SKU-269081,SKU-22475,1_category_vendor_name,HARD-4552-CONF,100.0,Configurable incremental groupware,Configurable incremental groupware
+Product,SKU-174652,SKU-23079,1_category_vendor_name,HARD-4677-SYNE,100.0,Synergized impactful open system,Synergized impactful open system
+Product,SKU-20790,SKU-506795,1_category_vendor_name,INDU-2026-COMP,100.0,Compatible homogeneous complexity,Compatible homogeneous complexity
+Product,SKU-1029858,SKU-20217,1_category_vendor_name,INDU-2233-MANA,100.0,Managed homogeneous concept,Managed homogeneous concept
+Product,SKU-395521,SKU-20264,1_category_vendor_name,INDU-2256-CONF,85.24590163934427,Configurable 4thgeneration,Configurable 4thgeneration database
+Product,SKU-177684,SKU-22798,1_category_vendor_name,INDU-2331-RIGH,87.5,Right sized homogeneous Graphical User Interface,Right-sized homogeneous Graphical User Interface
+Product,SKU-20967,SKU-228874,1_category_vendor_name,INDU-2443-OPTI,100.0,Optional multi-state initiative,Optional multi-state initiative
+Product,SKU-388131,SKU-22098,1_category_vendor_name,INDU-2476-REAC,100.0,Reactive disintermediate process improvement,Reactive disintermediate process improvement
+Product,SKU-20399,SKU-928291,1_category_vendor_name,INDU-2792-CUST,97.43589743589743,Customer-focused eco-centric middleware,customer-focused eco-centric middleware
+Product,SKU-555955,SKU-22646,1_category_vendor_name,INDU-2872-INTE,100.0,Integrated optimal project,Integrated optimal project
+Product,SKU-704762,SKU-21002,1_category_vendor_name,INDU-3179-MAND,100.0,Mandatory solution-oriented database,Mandatory solution-oriented database
+Product,SKU-23235,SKU-1050603,1_category_vendor_name,INDU-3451-SELF,100.0,Self-enabling fresh-thinking data-warehouse,Self-enabling fresh-thinking data-warehouse
+Product,SKU-616551,SKU-21391,1_category_vendor_name,INDU-3660-QUAL,97.61904761904762,Quality focused leadingedge knowledge user,Quality-focused leadingedge knowledge user
+Product,SKU-653341,SKU-20551,1_category_vendor_name,INDU-3902-NETW,100.0,Networked interactive initiative,Networked interactive initiative
+Product,SKU-352192,SKU-20433,1_category_vendor_name,INDU-4336-CONF,100.0,Configurable contextually-based product,Configurable contextually-based product
+Product,SKU-20768,SKU-959483,1_category_vendor_name,INDU-4363-FRON,96.7741935483871,Front-line impactful time-frame,front-line impactful time-frame
+Product,SKU-21226,SKU-545890,1_category_vendor_name,INDU-4688-EXTE,87.09677419354838,Extended tertiary pricing structure,Extended tertiary structure
+Product,SKU-1010204,SKU-20102,1_category_vendor_name,INDU-4774-VERS,100.0,Versatile asynchronous process improvement,Versatile asynchronous process improvement
+Product,SKU-676157,SKU-22175,1_category_vendor_name,OFFI-2518-USER,100.0,User-friendly human-resource contingency,User-friendly human-resource contingency
+Product,SKU-22170,SKU-817300,1_category_vendor_name,OFFI-2558-REDU,100.0,Reduced zero tolerance knowledgebase,Reduced zero tolerance knowledgebase
+Product,SKU-23151,SKU-147165,1_category_vendor_name,OFFI-3181-ERGO,96.42857142857143,Ergonomic stable open system,ergonomic stable open system
+Product,SKU-475902,SKU-20314,1_category_vendor_name,OFFI-3192-STAN,100.0,Stand-alone intermediate encoding,Stand-alone intermediate encoding
+Product,SKU-20639,SKU-1028363,1_category_vendor_name,OFFI-3249-MAND,100.0,Mandatory motivating benchmark,Mandatory motivating benchmark
+Product,SKU-21882,SKU-355371,1_category_vendor_name,OFFI-3252-EXCL,96.42857142857143,Exclusive radical initiative,exclusive radical initiative
+Product,SKU-684501,SKU-23267,1_category_vendor_name,OFFI-3379-ORGA,100.0,Organic mobile process improvement,Organic mobile process improvement
+Product,SKU-969449,SKU-21933,1_category_vendor_name,OFFI-3872-TEAM,100.0,Team-oriented dynamic open architecture,Team-oriented dynamic open architecture
+Product,SKU-20294,SKU-681440,1_category_vendor_name,OFFI-3955-OPEN,100.0,Open-source homogeneous policy,Open-source homogeneous policy
+Product,SKU-22253,SKU-1022612,1_category_vendor_name,OFFI-4099-MULT,95.1219512195122,Multi-channeled context-sensitive success,Multi channeled context sensitive success
+Product,SKU-409862,SKU-22415,1_category_vendor_name,OFFI-4194-PROG,100.0,Progressive multimedia emulation,Progressive multimedia emulation
+Product,SKU-815910,SKU-22434,1_category_vendor_name,OFFI-4495-AMEL,100.0,Ameliorated encompassing initiative,Ameliorated encompassing initiative
+Product,SKU-22112,SKU-337869,1_category_vendor_name,OFFI-4526-SELF,100.0,Self-enabling encompassing info-mediaries,Self-enabling encompassing info-mediaries
+Product,SKU-102171,SKU-22178,1_category_vendor_name,OFFI-4727-SEAM,100.0,Seamless 5thgeneration productivity,Seamless 5thgeneration productivity
+Product,SKU-618582,SKU-21040,1_category_vendor_name,OFFI-4775-TOTA,100.0,Total regional superstructure,Total regional superstructure
+Product,SKU-192631,SKU-23185,1_category_vendor_name,OFFI-4783-REDU,100.0,Reduced dedicated customer loyalty,Reduced dedicated customer loyalty
+Product,SKU-20129,SKU-484360,1_category_vendor_name,PACK-2108-INNO,100.0,Innovative 24/7 function,Innovative 24/7 function
+Product,SKU-398011,SKU-22067,1_category_vendor_name,PACK-2515-INNO,100.0,Innovative actuating hardware,Innovative actuating hardware
+Product,SKU-129942,SKU-22540,1_category_vendor_name,PACK-2692-MULT,96.96969696969697,Multi lateral responsive protocol,Multi-lateral responsive protocol
+Product,SKU-149033,SKU-22313,1_category_vendor_name,PACK-2925-SECU,100.0,Secured discrete moratorium,Secured discrete moratorium
+Product,SKU-22096,SKU-228549,1_category_vendor_name,PACK-3033-STAN,86.66666666666667,Stand-alone fault-tolerant success,Stand-alone fault-tolerant
+Product,SKU-21619,SKU-450304,1_category_vendor_name,PACK-3041-PROF,100.0,Profound stable policy,Profound stable policy
+Product,SKU-956489,SKU-20836,1_category_vendor_name,PACK-3233-SHAR,100.0,Sharable dynamic application,Sharable dynamic application
+Product,SKU-539822,SKU-23485,1_category_vendor_name,PACK-3269-STAN,100.0,Stand-alone exuding task-force,Stand-alone exuding task-force
+Product,SKU-20793,SKU-858967,1_category_vendor_name,PACK-3292-UPSI,100.0,Up-sized solution-oriented parallelism,Up-sized solution-oriented parallelism
+Product,SKU-716214,SKU-20533,1_category_vendor_name,PACK-3459-DEEN,90.0,De-engineered 4thgeneration,De-engineered 4thgeneration model
+Product,SKU-21999,SKU-672047,1_category_vendor_name,PACK-3540-FUNC,100.0,Function-based context-sensitive orchestration,Function-based context-sensitive orchestration
+Product,SKU-21861,SKU-245276,1_category_vendor_name,PACK-3602-OPTI,100.0,Optional exuding help-desk,Optional exuding help-desk
+Product,SKU-23118,SKU-920138,1_category_vendor_name,PACK-3629-DIST,92.7536231884058,Distributed intangible knowledge user,Distributed intangible knowledge
+Product,SKU-22258,SKU-638360,1_category_vendor_name,PACK-3718-ENTE,100.0,Enterprise-wide intermediate task-force,Enterprise-wide intermediate task-force
+Product,SKU-20573,SKU-608978,1_category_vendor_name,PACK-3722-INVE,100.0,Inverse client-server functionalities,Inverse client-server functionalities
+Product,SKU-21124,SKU-345285,1_category_vendor_name,PACK-3728-SHAR,100.0,Sharable maximized ability,Sharable maximized ability
+Product,SKU-22761,SKU-1062122,1_category_vendor_name,PACK-4034-PROF,87.27272727272728,Profit-focused secondary access,Profit-focused secondary
+Product,SKU-20514,SKU-913170,1_category_vendor_name,PACK-4116-AMEL,96.2962962962963,Ameliorated stable strategy,ameliorated stable strategy
+Product,SKU-1084463,SKU-22867,1_category_vendor_name,PACK-4154-PROG,97.05882352941177,Progressive system worthy leverage,Progressive system-worthy leverage
+Product,SKU-441019,SKU-22011,1_category_vendor_name,PACK-4181-ADAP,96.66666666666667,adaptive grid-enabled protocol,Adaptive grid-enabled protocol
+Product,SKU-805456,SKU-20488,1_category_vendor_name,PACK-4341-MULT,85.18518518518519,Multi-lateral groupware,Multi-lateral optimal groupware
+Product,SKU-532180,SKU-22080,1_category_vendor_name,PACK-4544-PROG,100.0,Progressive dynamic intranet,Progressive dynamic intranet
+Product,SKU-21326,SKU-824114,1_category_vendor_name,PACK-4572-PROF,100.0,Profound background core,Profound background core
+Product,SKU-812798,SKU-20936,1_category_vendor_name,PACK-4616-DIGI,100.0,Digitized incremental structure,Digitized incremental structure
+Product,SKU-22338,SKU-470063,1_category_vendor_name,SOFT-2038-AUTO,100.0,Automated analyzing focus group,Automated analyzing focus group
+Product,SKU-21653,SKU-119323,1_category_vendor_name,SOFT-2254-BUSI,97.5609756097561,Business-focused clear-thinking moderator,business-focused clear-thinking moderator
+Product,SKU-22963,SKU-921860,1_category_vendor_name,SOFT-2351-SHAR,100.0,Sharable cohesive success,Sharable cohesive success
+Product,SKU-20443,SKU-480741,1_category_vendor_name,SOFT-2883-PERS,94.84536082474226,Persistent next generation Graphical User Interface,Persistent next generation Graphical Interface
+Product,SKU-705104,SKU-22643,1_category_vendor_name,SOFT-3226-TEAM,100.0,Team-oriented directional function,Team-oriented directional function
+Product,SKU-20050,SKU-398354,1_category_vendor_name,SOFT-3326-SECU,100.0,Secured executive process improvement,Secured executive process improvement
+Product,SKU-20547,SKU-872864,1_category_vendor_name,SOFT-3434-OPTI,100.0,Optional interactive functionalities,Optional interactive functionalities
+Product,SKU-23041,SKU-746084,1_category_vendor_name,SOFT-3448-TRIP,97.2972972972973,Triple-buffered homogeneous interface,Triple buffered homogeneous interface
+Product,SKU-449788,SKU-20757,1_category_vendor_name,SOFT-3485-VIRT,100.0,Virtual grid-enabled architecture,Virtual grid-enabled architecture
+Product,SKU-186559,SKU-21341,1_category_vendor_name,SOFT-3648-CONF,97.05882352941177,configurable mobile conglomeration,Configurable mobile conglomeration
+Product,SKU-23354,SKU-882135,1_category_vendor_name,SOFT-3741-COMP,100.0,Compatible contextually-based moderator,Compatible contextually-based moderator
+Product,SKU-271568,SKU-20242,1_category_vendor_name,SOFT-4156-GRAS,100.0,Grass-roots stable task-force,Grass-roots stable task-force
+Product,SKU-470020,SKU-20872,1_category_vendor_name,SOFT-4239-PROA,100.0,Proactive foreground solution,Proactive foreground solution
+Product,SKU-932866,SKU-20245,1_category_vendor_name,SOFT-4365-STAN,96.66666666666667,Stand alone hybrid parallelism,Stand-alone hybrid parallelism
+Product,SKU-22453,SKU-679057,1_category_vendor_name,SOFT-4411-TRIP,100.0,Triple-buffered methodical Local Area Network,Triple-buffered methodical Local Area Network
+Product,SKU-464934,SKU-22045,1_category_vendor_name,SOFT-4414-INTU,100.0,Intuitive bandwidth-monitored solution,Intuitive bandwidth-monitored solution
+Product,SKU-21737,SKU-821974,1_category_vendor_name,SOFT-4674-ADAP,96.875,Adaptive disintermediate synergy,adaptive disintermediate synergy
+Product,SKU-268146,SKU-21265,1_category_vendor_name,SOFT-4756-NETW,85.29411764705883,Networked interactive pricing,Networked interactive pricing structure
+Product,SKU-579045,SKU-21783,1_category_vendor_name,SOFT-4770-PHAS,100.0,Phased executive website,Phased executive website
+Product,SKU-21750,SKU-406375,1_category_vendor_name,SOFT-4775-SECU,100.0,Secured bi-directional middleware,Secured bi-directional middleware
+Product,SKU-441480,SKU-22877,1_category_vendor_name,SOFT-4891-STRE,100.0,Streamlined local benchmark,Streamlined local benchmark
